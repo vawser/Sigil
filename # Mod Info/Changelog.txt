@@ -1,0 +1,23 @@
+﻿#------------------------------
+# Item ID ranges
+#------------------------------
+# These need to be used for new treasures in each area
+54002000 Cemetery of Ash / Unturned Graves
+53002000 High Wall of Lothric / Consumed King's Garden
+53102000 Undead Settlement
+53302000 Road of Sacrifices / Farron Keep
+53502000 Cathedral of the Deep
+53802000 Catacombs of Carthus / Smouldering Lake
+53702000 Irithyll of the Boreal Valley / Anor Londo
+53902000 Irithyll Dungeon / Profaned Capital
+53012000 Lothric Castle
+53412000 Grand Archives
+54102000 Kiln of the First Flame
+53202000 Archdragon Peak
+54502000 Painted World of Ariandel
+55002000 Dreg Heap
+55102000 The Ringed City
+
+#------------------------------
+# Changelog
+#------------------------------
